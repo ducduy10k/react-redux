@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Working with redux through hooks
+
+- useSelector()
+- useDispart()
+
+1. Setup redux store
+
+- Reducers & root reducer
+- Action creators
+- Store
+
+2. Setup redux provider
+
+- Allow redux store to be accessible from anywhere of the app
+
+3. Connect to redux store from component
+
+- Using the two hooks
